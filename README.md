@@ -16,7 +16,10 @@ Codecademy project using APIs and HTTP requests
 A Codecademy Project. Using APIs and HTTP requests.
 
 ## Technologies
-* Tech 1 - version 1.0
+* JavaScript 
+* CSS
+* HTML
+* API
 
 ## Setup
 Type in a town or city and hit search to get some local attractions and the weather. 
